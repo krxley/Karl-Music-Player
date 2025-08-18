@@ -432,7 +432,7 @@ let songs = [
         title: "Where We Are",
         artist: "One Direction",
         album: "Midnight Memories (Deluxe Edition)",
-        albumArtUrl: "https://static.wikia.nocookie.net/onedirection/images/9/98/Where_We_Are_%28Single%29_-_One_Direction.jpg/revision/latest?cb=20241008205147",
+        albumArtUrl: "img/Where We Are.jpg",
         audioSrc: "audio/One Direction - Where We Are.mp3",
         videoBgSrc: "videos/Where We Are.mp4",
         lyrics: [
